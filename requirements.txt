@@ -15,3 +15,10 @@ jupyterlite-xeus-lua==0.1.1
 jupyterlite-xeus-wren==0.1.2
 plotly>=5,<6
 theme-darcula
+matplotlib
+pillow
+palettable
+h5py
+ipyvolume
+webcolors
+cartopy
