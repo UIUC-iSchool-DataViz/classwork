@@ -80,6 +80,12 @@
       {
         "extension": "./extension",
         "liteExtension": false,
+        "load": "static/remoteEntry.e9df3e4e9577abfc8848.js",
+        "name": "jupyter-matplotlib"
+      },
+      {
+        "extension": "./extension",
+        "liteExtension": false,
         "load": "static\\remoteEntry.2f951fa402a59b56bb79.js",
         "name": "jupyter-threejs"
       },
