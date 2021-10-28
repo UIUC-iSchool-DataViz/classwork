@@ -23,4 +23,3 @@ palettable
 h5py
 ipyvolume
 webcolors
-cartopy
