@@ -80,9 +80,27 @@
       {
         "extension": "./extension",
         "liteExtension": false,
+        "load": "static\\remoteEntry.2f951fa402a59b56bb79.js",
+        "name": "jupyter-threejs"
+      },
+      {
+        "extension": "./extension",
+        "liteExtension": false,
+        "load": "static/remoteEntry.a8997ccec61b65e8a4e7.js",
+        "name": "jupyter-webrtc"
+      },
+      {
+        "extension": "./extension",
+        "liteExtension": false,
         "load": "static/remoteEntry.a7ffe26201ed2eee8505.js",
         "name": "jupyter-wren-syntax",
         "style": "./style"
+      },
+      {
+        "extension": "./extension",
+        "liteExtension": false,
+        "load": "static\\remoteEntry.64278c7f56b4790750de.js",
+        "name": "jupyterlab-datawidgets"
       },
       {
         "extension": "./extension",
